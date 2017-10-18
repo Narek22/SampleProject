@@ -1,5 +1,5 @@
 package main;
 
-public class A extends B{
+public class A implements B{
     private int a;
 }

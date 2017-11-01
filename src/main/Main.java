@@ -10,5 +10,7 @@ public class Main {
 
 //        A a = new A();
 //        System.out.println(a instanceof B);
+//        hytr
+        System.out.println("efer");
     }
 }
